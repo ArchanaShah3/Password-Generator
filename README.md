@@ -27,7 +27,7 @@ This is a mini project for generating random passwords according to the length s
 - **clone the repository**:
   `git clone`
 
-`cd PASSWORDGENERATOR`
+`cd Password-Generator`
 
 - **Install dependencies**:
   `npm install`
